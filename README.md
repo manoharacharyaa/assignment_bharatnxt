@@ -7,9 +7,9 @@ API.
  
 ## Setup Instructions 
 1. Clone the repo
-   i. git clone https://github.com/manoharacharyaa/assignment_bharatnxt.git
-   ii. cd flutter_article_app
-   iii. code . (open in vs code) 
+   1. git clone https://github.com/manoharacharyaa/assignment_bharatnxt.git
+   2. cd flutter_article_app
+   3. code . (open in vs code) 
  
 3. Install dependencies: 
    flutter pub get 
