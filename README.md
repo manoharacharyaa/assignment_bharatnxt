@@ -6,7 +6,8 @@ API.
 ## Features - List of articles - Search functionality - Detail view - Responsive UI 
  
 ## Setup Instructions 
-1. Clone the repo: git clone https://github.com/manoharacharyaa/assignment_bharatnxt.git
+1. Clone the repo
+   git clone https://github.com/manoharacharyaa/assignment_bharatnxt.git
    cd flutter_article_app
    code . 
  
